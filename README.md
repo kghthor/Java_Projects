@@ -1,3 +1,3 @@
 # java-projects
 ---
-small java programs
+Java Projects for the purpose of Learning and Building!!
