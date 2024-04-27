@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 public class PrintMenu {
 
 	public static void main(String[] args) {
