@@ -1,5 +1,5 @@
 public class Garage extends Building { 
-   private int numberOfCars;
+   private int numberOfCars; I 
    private String garageConstruction;
    private int length;
    private int width;
