@@ -1,4 +1,4 @@
-public class Garage extends Building {
+public class Garage extends Building { 
    private int numberOfCars;
    private String garageConstruction;
    private int length;
