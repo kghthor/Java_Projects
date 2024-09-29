@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 public class Grades {
 
 	private static Object String;
