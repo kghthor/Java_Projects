@@ -1,4 +1,3 @@
-
 public class MyProgram {
 	
 	private String message;
