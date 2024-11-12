@@ -2,7 +2,7 @@ public class Garage extends Building {
    private int numberOfCars; I 
    private String garageConstruction;
    private int length;
-   private int width;
+   private int width; 
    public Garage(int numberOfWindows, int length, int width, int numberOfCars, String floorCovering) {
        super.setNumberOfFloors(1);
        super.setNumberOfWindows(numberOfWindows);
