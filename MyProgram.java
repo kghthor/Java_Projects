@@ -1,5 +1,5 @@
 public class MyProgram {
-	
+	 
 	private String message;
 	
 	public void setVar(String s) {
