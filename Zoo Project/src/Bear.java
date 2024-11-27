@@ -1,4 +1,4 @@
-
+ 
 public class Bear {
 
 	private String name;
