@@ -1,7 +1,7 @@
 
 public class Tiger {
 
-	private String name;
+	private String name; 
 	
 	public String getName(){
 		return name;
