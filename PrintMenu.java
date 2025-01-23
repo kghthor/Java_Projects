@@ -8,7 +8,7 @@ public class PrintMenu {
 		int taco = 5;
 		int soda = 4;
 		int salsa = 20;
-		int mayo = 17;
+		int mayo = 17; 
 		int butter = 900;
 		int count = 0;
 		int choice = 0;
