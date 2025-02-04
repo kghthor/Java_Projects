@@ -1,7 +1,7 @@
 public abstract class Building {
    private int numberOfFloors;
    private int numberOfWindows;
-   public int getNumberOfFloors() {
+   public int getNumberOfFloors() { 
        return numberOfFloors;
    }
    //Getter and Setters for Specs of houses.
