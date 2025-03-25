@@ -3,7 +3,7 @@ public class Room implements Comparable<Room> {
 	private int width;
 	private String floorCovering;
 	private int numberOfClosets;
-
+ 
 	public Room(int length, int width, String floorCovering, int numberOfClosets) {
 		this.length = length;
 		this.width = width;
