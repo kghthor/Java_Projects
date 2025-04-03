@@ -6,7 +6,7 @@ public class PrintMenu {
 		
 		int cheeze = 2;
 		int taco = 5;
-		int soda = 4;
+		int soda = 4; 
 		int salsa = 20;
 		int mayo = 17;
 		int butter = 900;
