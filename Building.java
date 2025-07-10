@@ -1,4 +1,4 @@
-public abstract class Building {
+public abstract class Building { 
    private int numberOfFloors;
    private int numberOfWindows;
    public int getNumberOfFloors() { 
