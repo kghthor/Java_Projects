@@ -1,4 +1,4 @@
-
+ 
 public interface CreatePlayer {
 	 
 	public abstract void setName(String name);
