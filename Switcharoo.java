@@ -5,7 +5,7 @@ public class Switcharoo {
 	public static void main(String[] args) {
 		
 		int choice = 140;
-		int choice1 = -42;
+		int choice1 = -42; 
 		int choice2 = 85;
 		Scanner s =new Scanner(System.in);
 		System.out.println("Enter a choice");
@@ -39,4 +39,5 @@ public class Switcharoo {
 }
 	
 	
+
 
