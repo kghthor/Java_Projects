@@ -5,7 +5,7 @@ public class Bear {
 	
 	Bear(){
 		setName("smokey");
-		
+		 
 	}
 
 	private void setName(String name){
