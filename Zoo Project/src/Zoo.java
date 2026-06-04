@@ -7,7 +7,7 @@ public class Zoo {
 		String name = bear.getName();
 		System.out.println("name"); 
 		 
-		Tiger tiger = new Tiger();
+		Tiger tiger = new Tiger(); 
 		tiger.setName("Tigger");
 		String tigerName = tiger.getName();
 		System.out.println("tigerName");
